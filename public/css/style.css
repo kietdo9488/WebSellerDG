@@ -1,0 +1,68 @@
+body
+{
+    background: url(../img/bg.jpg);
+}
+.header
+{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.lienhe
+{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.calllink
+{
+    padding: 10px 20px;
+    border: solid 3px black;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    border-radius: 20px;
+}
+.text
+{
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+.mid
+{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.text-demo
+{
+    padding-top: 10px;
+    padding-bottom: 30px;
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+}
+.bot
+{
+    background: blue;
+    padding-top: 25px;
+    padding-bottom: 25px;  
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: white;
+}
+.more-info
+{
+    font-weight: bold;
+    font-size: 1.5em;
+    text-align: center;
+}
+.have-link
+{
+    color: white;
+    text-decoration: none;
+    background: blue;
+}
+.have-link:hover
+{
+    color: red;
+}
